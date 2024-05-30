@@ -9,4 +9,4 @@ Right now **I'm taking short break** from programming.
 If you want to ask me something or just contact me the easiest way to do it is by my discord - **@ciupaga_pl**.
 
 ## Have a nice day!
-- Ciupaga <3
+- CiupagaPL <3
