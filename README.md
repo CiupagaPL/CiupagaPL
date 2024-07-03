@@ -1,12 +1,12 @@
 # CiupagaPL
 ## General info
-**Welcome to my profile!** I'm Polish Patriotic Mountain Cane; C lover; Void Linux user; Vim enjoyer.
+**Welcome to my profile!** I don't really know what to say about myself, so I'll just mention the basics O.o I love Poland, I am Catholic by faith, My main operating system is Void Linux, I use (Neo)Vim as my code editor, My favorite programming language is C, My least favorite language is JS, I love nature, peace, and quiet.
 
 ## Status
-Right now **I'm taking short break** from programming.
+At the moment, I am working on a few smaller projects. For more information, check out the latest repositories <3
 
 ## Contact
-If you want to ask me something or just contact me the easiest way to do it is by my discord - **@ciupaga_pl**.
+If you want to ask me something or just contact me the easiest way to do it is by my discord - **@ciupaga_pl**. If necessary, you can contact me via email - **ciupagapl@protonmail.com**.
 
 ## Have a nice day!
 - CiupagaPL <3
