@@ -1,4 +1,4 @@
-[CiupagaPL](BANNER.png)
+[CiupagaPL](https://github.com/user-attachments/assets/1694db4a-3fd9-4f19-8cad-0a09e7533386)
 
 ## General info
 **Welcome to my profile!** I don't really know what to say about myself, so I'll just mention the basics O.o I love Poland, I am Catholic by faith, My main operating system is Void Linux, I use (Neo)Vim as my code editor, My favorite programming language is C and least favorite one is JS, I love nature, peace, and quiet. Yep, that's all, in fact :- P
