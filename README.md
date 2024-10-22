@@ -8,4 +8,4 @@ Focusing on random projects.
 If you want to ask me something or just contact me the easiest way to do it is by my discord -> **@ciupaga_pl**. If necessary, you can contact me via email -> **ciupagapl@protonmail.com**.
 
 ## Have a nice day!
-- CiupagaPL <3
+- Ciupaga <3
