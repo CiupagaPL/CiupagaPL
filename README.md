@@ -52,6 +52,4 @@ If you wanna contact me do it via my email: ciupagapl@protonmail.com<br><br>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CiupagaPL&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="172" alt="stats graph"/>
-<img src="https://streak-stats.demolab.com?user=CiupagaPL&locale=en&mode=weekly&theme=nord&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="172" alt="streak graph"/>
 </div>
-
