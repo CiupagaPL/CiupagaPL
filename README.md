@@ -51,7 +51,7 @@ If you wanna contact me do it via my email: ciupagapl@protonmail.com<br><br>
 ## Stats:
 
 <div align="center">
-    <img alt="General Stats" style="width:512px" src="https://github-readme-stats.vercel.app/api?username=CiupagaPL&show=reviews,percentage&show_icons=true&theme=nord"/>
-    <img alt="Languages Usage" style="width:392px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=nord&layout=donut"/>
+    <img alt="General Stats" style="width:384px" src="https://github-readme-stats.vercel.app/api?username=CiupagaPL&show=reviews,percentage&show_icons=true&theme=nord"/>
+    <img alt="Languages Usage" style="width:294px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=nord&layout=donut"/>
 </div>
 
