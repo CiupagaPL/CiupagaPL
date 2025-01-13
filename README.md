@@ -50,6 +50,9 @@ If you wanna contact me do it via my email: ciupagapl@protonmail.com<br><br>
 
 ## Stats:
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CiupagaPL&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="172" alt="stats graph"/>
+<div align="left">
+    ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/0-profile-details.svg)
+    ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
+    ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/3-stats.svg)
 </div>
+
