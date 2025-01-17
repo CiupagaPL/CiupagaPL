@@ -41,13 +41,13 @@ If you wanna contact me do it via my email: ciupagapl@protonmail.com<br><br>
 
 <div align="left">
     <a href="https://www.discordapp.com/users/652768848503635968" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" height="72" alt="discord logo"/>
+        <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png" height="72" alt="discord logo"/>
     </a>
     <a href="https://www.youtube.com/channel/UCW6a9nZ8tYzem2MAZUZ325A" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" height="72" alt="youtube logo"/>
+        <img src="https://img.icons8.com/?size=100&id=19318&format=png" height="72" alt="youtube logo"/>
     </a>
     <a href="https://steamcommunity.com/id/ciupagapl" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=kBZ9gLW27vrQ&format=png" height="72" alt="steam logo"/>
+        <img src="https://img.icons8.com/?size=100&id=13650&format=png&color=000000" height="72" alt="steam logo"/>
     </a>
 </div>
 
