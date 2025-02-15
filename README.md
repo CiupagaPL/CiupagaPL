@@ -18,11 +18,9 @@ If you wanna contact me do it via my email: ciupagapl@protonmail.com<br><br>
 <div align="left">
     <img src="https://cdn.simpleicons.org/c/A8B9CC" height="72" alt="c logo"/>
     <img src="https://cdn.simpleicons.org/c++/00599C" height="72" alt="c++ logo"/>
-    <img src="https://cdn.simpleicons.org/cmake/064F8C" height="72" alt="cmake logo"/>
     <img src="https://cdn.simpleicons.org/html5/E34F26" height="72" alt="html logo"/>
     <img src="https://cdn.simpleicons.org/css3/1572B6" height="72" alt="css logo"/>
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="72" alt="javascript logo"/>
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" height="72" alt="typescript logo"/>
     <img src="https://cdn.simpleicons.org/php/777BB4" height="72" alt="php logo"/>
 </div>
 
