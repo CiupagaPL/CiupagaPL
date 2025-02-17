@@ -24,17 +24,6 @@ If you wanna contact me do it via my email: ciupagapl@protonmail.com<br><br>
     <img src="https://cdn.simpleicons.org/php/777BB4" height="72" alt="php logo"/>
 </div>
 
-## The software I use:
-
-<div align="left">
-    <img src="https://cdn.simpleicons.org/firefox/FF7139" height="72" alt="firefox logo"/>
-    <img src="https://cdn.simpleicons.org/git/F05032" height="72" alt="git logo"/>
-    <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="72" alt="nodejs logo"/>
-    <img src="https://cdn.simpleicons.org/vim/019733" height="72" alt="vim logo"/>
-    <img src="https://cdn.simpleicons.org/neovim/57A143" height="72" alt="neovim logo"/>
-    <img src="https://cdn.simpleicons.org/linux/FCC624" height="72" alt="linux logo"/>
-</div>
-
 ## My accounts:
 
 <div align="left">
