@@ -1,46 +1,52 @@
+![Ciupaga](https://github.com/CiupagaPL/CiupagaPL/blob/main/src/banner.png)
+
 ## About me
 
-**I'm [Mountain Cane | Alpenstock]** and I'm the type of programmer who actually has life outside <3<br><br>
+**I'm [Mountain Cane | Alpenstock | Call me how you want]** and I'm the type of programmer who actually touches grass <3<br><br>
 
-I love nature and peace.
-I'm interested in like a million things *(but I only try 2/3 of them)*.
+**I love nature and peace**.
+I'm interested in like a million things (*but only try 2 or 3 of them*).
 I'm often lost in thought about the most random things possible to think of.
-I really love milk *and I had to write it as a separate sentence*.<br>
-Actually talking about programming I love making smaller projects in C and C++ thought because of school I need to focus on JS stuff.
-And yeah, JS is the worst thing ever created :- P<br><br>
+I really love milk (*and I had to mention it here* ^.^).<br><br>
+**Talking about gaming** I mostly enjoy strategic and chill games.
+If I could recommend you anything, then you should definitely try **Placid Plastic Duck Simulator** (*best 2$ you'll ever spend*).<br><br>
+**Talking about programming** I really enjoy making smaller projects in **C** and **C++**.
+My **HTML**-based repositories where mostly made as school projects.<br><br>
 
-If you wanna contact me do it via my email: ciupagapl@protonmail.com<br><br>
+**If you wanna contact me do it via my email**: <<a>ciupagapl@protonmail.com</a>><br>
+[[*Simple Text Here*]](https://www.youtube.com/watch?v=Y8yp9oItjA4)
 
-**Have a good one!**
+## Focus
+**I'm currently working on small graphics/audio library** for Windows and Linux(*X11*) which is being made in **C** and **C++**
 
-## Programming languages which I work in:
+## Programming languages
 
 <div align="left">
-    <img src="https://cdn.simpleicons.org/c/A8B9CC" height="72" alt="c logo"/>
-    <img src="https://cdn.simpleicons.org/c++/00599C" height="72" alt="c++ logo"/>
-    <img src="https://cdn.simpleicons.org/html5/E34F26" height="72" alt="html logo"/>
-    <img src="https://cdn.simpleicons.org/css3/1572B6" height="72" alt="css logo"/>
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="72" alt="javascript logo"/>
-    <img src="https://cdn.simpleicons.org/php/777BB4" height="72" alt="php logo"/>
+    <img align="left" src="https://img.icons8.com/?size=100&id=40670&format=png" height="72" alt="C Logo">
+    <img align="left" src="https://img.icons8.com/?size=100&id=40669&format=png" height="72" alt="C++ Logo">
+    <img align="right" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="72" alt="HTML Logo">
+    <img align="right" src="https://img.icons8.com/?size=100&id=21278" height="72" alt="CSS Logo">
+    <img align="right" src="https://img.icons8.com/?size=100&id=108784&format=png" height="72" alt="JS Logo">
+    <img align="right" src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png" height="72" alt="PHP Logo"><br><br><br>
 </div>
 
-## My accounts:
+## My online accounts
 
 <div align="left">
     <a href="https://www.discordapp.com/users/652768848503635968" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png" height="72" alt="discord logo"/>
+        <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png" height="72" alt="Discord Logo">
     </a>
     <a href="https://www.youtube.com/channel/UCW6a9nZ8tYzem2MAZUZ325A" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=19318&format=png" height="72" alt="youtube logo"/>
+        <img src="https://img.icons8.com/?size=100&id=19318&format=png" height="72" alt="YouTube Logo">
     </a>
     <a href="https://steamcommunity.com/id/ciupagapl" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=13650&format=png&color=000000" height="72" alt="steam logo"/>
+        <img src="https://img.icons8.com/?size=100&id=13650&format=png" height="72" alt="Steam Logo">
     </a>
 </div>
 
-## Stats:
+## Stats
 
-<div align="center">
-    <img alt="General Stats" style="width:384px" src="https://github-readme-stats.vercel.app/api?username=CiupagaPL&show=reviews,percentage&show_icons=true&theme=nord"/>
-    <img alt="Languages Usage" style="width:294px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=nord&layout=donut"/>
+<div align="left">
+    <img align="left" alt="General Stats" style="width:384px" src="https://github-readme-stats.vercel.app/api?username=CiupagaPL&theme=nord&show_icons=true&hide_border=true&count_private=true)">
+    <img align="right" alt="Languages Usage" style="width:261px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiupagaPL&theme=nord&show_icons=true&hide_border=true&langs_count=4&layout=donut">
 </div>
