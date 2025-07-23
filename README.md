@@ -11,7 +11,7 @@ I really love milk (*and I had to mention it here* ^.^).<br><br>
 **Talking about gaming** I mostly enjoy strategic and chill games.
 If I could recommend you anything, then you should definitely try **Placid Plastic Duck Simulator** (*best 2$ you'll ever spend*).<br><br>
 **Talking about programming** I really enjoy making smaller projects in **C** and **C++**.
-My **HTML**-based repositories where mostly made as school projects.<br><br>
+My **HTML**-based repositories were mostly made as school projects.<br><br>
 
 **If you wanna contact me do it via my email**: <<a>ciupagapl@protonmail.com</a>><br>
 [[*Simple Text Here*]](https://www.youtube.com/watch?v=Y8yp9oItjA4)
