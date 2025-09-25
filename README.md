@@ -1,8 +1,8 @@
 ![Ciupaga](https://github.com/CiupagaPL/CiupagaPL/blob/main/src/banner.png)
 
-## About me
+## About
 
-**I'm [Mountain Cane | Alpenstock | Call me how you want]** and I'm the type of programmer who actually touches grass <3<br><br>
+**I'm [Mountain Cane | Alpenstock | Call me how you want]**<br><br>
 
 **I love nature and peace**.
 I'm interested in like a million things (*but only try 2 or 3 of them*).
@@ -14,23 +14,23 @@ If I could recommend you anything, then you should definitely try **Placid Plast
 My **HTML**-based repositories were mostly made as school projects.<br><br>
 
 **If you wanna contact me do it via my email**: <<a>ciupagapl@protonmail.com</a>><br>
-[[*Simple Text Here*]](https://www.youtube.com/watch?v=Y8yp9oItjA4)
 
 ## Focus
-**I'm currently working on small graphics/audio library** for Windows and Linux(*X11*) which is being made in **C** and **C++**
+**I'm currently working on small multimedia library** for Windows(*WinAPI*) and Linux(*X11*). It's taking me forever because 
 
-## Programming languages
+## Programming Languages
 
 <div align="left">
     <img align="left" src="https://img.icons8.com/?size=100&id=40670&format=png" height="72" alt="C Logo">
     <img align="left" src="https://img.icons8.com/?size=100&id=40669&format=png" height="72" alt="C++ Logo">
+    <img align="left" src="https://img.icons8.com/?size=100&id=lXPUSRCongH1&format=png" height="72" alt="Python Logo">
     <img align="right" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="72" alt="HTML Logo">
     <img align="right" src="https://img.icons8.com/?size=100&id=21278" height="72" alt="CSS Logo">
     <img align="right" src="https://img.icons8.com/?size=100&id=108784&format=png" height="72" alt="JS Logo">
     <img align="right" src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png" height="72" alt="PHP Logo"><br><br><br>
 </div>
 
-## My online accounts
+## Online Accounts
 
 <div align="left">
     <a href="https://www.discordapp.com/users/652768848503635968" target="_blank">
@@ -44,7 +44,7 @@ My **HTML**-based repositories were mostly made as school projects.<br><br>
     </a>
 </div>
 
-## Stats
+## GitHub Stats
 
 <div align="left">
     <img align="left" alt="General Stats" style="width:384px" src="https://github-readme-stats.vercel.app/api?username=CiupagaPL&theme=nord&show_icons=true&hide_border=true&count_private=true)">
