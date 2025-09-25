@@ -13,7 +13,7 @@ If I could recommend you anything, then you should definitely try **Placid Plast
 **Talking about programming** I really enjoy making smaller projects in **C** and **C++**.
 My **HTML**-based repositories were mostly made as school projects.<br><br>
 
-**If you wanna contact me do it via my email**: <<a>ciupagapl@protonmail.com</a>><br>.
+**If you wanna contact me do it via my email**: <<a>ciupagapl@protonmail.com</a>>.
 
 ## Focus
 **I'm currently working on small multimedia library** for Windows(*WinAPI*) and Linux(*X11*). And it's taking me forever.
