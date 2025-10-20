@@ -16,7 +16,7 @@ My **HTML**-based repositories were mostly made as school projects.<br><br>
 **If you wanna contact me do it via my email**: <<a>ciupagapl@protonmail.com</a>>.
 
 ## Focus
-**I'm currently working on small multimedia library** for Windows(*WinAPI*) and Linux(*X11*). And it's taking me forever.
+I'm currently making random stuff for no reason c.c
 
 ## Programming Languages
 
