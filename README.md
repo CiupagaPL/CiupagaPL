@@ -8,7 +8,7 @@
 I'm interested in like a million things (*but only try 2 or 3 of them*).
 I'm often lost in thought about the most random things possible to think of.
 I really love milk (*and I had to mention it here* ^.^).<br><br>
-**Talking about gaming** I mostly enjoy strategic and chill games.
+**Talking about gaming** I mostly enjoy historic, strategic and chill games.
 If I could recommend you anything, then you should definitely try **Placid Plastic Duck Simulator** (*best 2$ you'll ever spend*).<br><br>
 **Talking about programming** I really enjoy making smaller projects in **C** and **C++**.
 My **HTML**-based repositories were mostly made as school projects.<br><br>
@@ -16,7 +16,9 @@ My **HTML**-based repositories were mostly made as school projects.<br><br>
 **If you wanna contact me do it via my email**: <<a>ciupagapl@protonmail.com</a>>.
 
 ## Focus
-I'm currently making random stuff for no reason c.c
+
+I'm currently taking bigger break from programming.<br>
+After it I'll try to push **Przecinek** towards its first Beta release.
 
 ## Programming Languages
 
