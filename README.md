@@ -43,7 +43,6 @@ My **HTML**-based repositories were mostly made as school projects.<br><br>
 
 ## GitHub Stats
 
-<div align="left">
-    <img align="left" alt="General Stats" style="width:384px" src="https://github-readme-stats.vercel.app/api?username=CiupagaPL&theme=nord&show_icons=true&hide_border=true&count_private=true)">
-    <img align="right" alt="Languages Usage" style="width:261px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiupagaPL&theme=nord&show_icons=true&hide_border=true&langs_count=4&layout=donut">
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=nord&fontFamily=Fira%20Mono&showIcons=false&preferLogin=false"><img alt="CiupagaPL's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/CiupagaPL?cardType=github&theme=nord&fontFamily=Fira%20Mono&showIcons=false&preferLogin=false"/></a>
 </div>
