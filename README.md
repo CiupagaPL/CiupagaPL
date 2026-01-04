@@ -15,11 +15,6 @@ My **HTML**-based repositories were mostly made as school projects.<br><br>
 
 **If you wanna contact me do it via my email**: <<a>ciupagapl@protonmail.com</a>>.
 
-## Focus
-
-I'm currently taking bigger break from programming.<br>
-After it I'll try to push **Przecinek** towards its first Beta release.
-
 ## Programming Languages
 
 <div align="left">
