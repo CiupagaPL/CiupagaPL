@@ -44,5 +44,5 @@ My **HTML**-based repositories were mostly made as school projects.<br><br>
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=nord&fontFamily=Fira%20Mono&showIcons=false&preferLogin=false"><img alt="CiupagaPL's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/CiupagaPL?cardType=github&theme=nord&fontFamily=Fira%20Mono&showIcons=false&preferLogin=false"/></a>
+  <img alt="CiupagaPL's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/CiupagaPL?cardType=github&theme=nord&fontFamily=Fira%20Mono&showIcons=false&preferLogin=false"/>
 </div>
