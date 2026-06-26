@@ -11,7 +11,7 @@ I looooooooooove milk (*and had to mention it here*).
 
 Talking about gaming I mostly enjoy multiplayer and chilly games.
 If I could recommend you anything, then you should definitely try *Placid Plastic Duck Simulator* (*best 2$ you'll ever spend*).
-Also I'm a really big fan of the silver age Minecraft.
+Also I'm a really big fan of the silver age *Minecraft*.
 
 Talking about programming I love making ~~smaller~~ projects in *C* and *C++*.
 My *HTML*-based repositories were mostly made as school projects.
